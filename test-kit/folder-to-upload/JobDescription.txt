@@ -1,0 +1,44 @@
+Consultant / Developer (fictional posting for testing)
+
+A software company that builds financial reporting products for law firms
+is looking for a Consultant/Developer. You will work directly with client
+firms to implement our products: understanding each firm's needs,
+translating them into technical requirements, and delivering them, from
+implementation through post-live support.
+
+What you'll do
+- Manage client implementations and projects to successful outcomes.
+- Work closely with our consultants to implement, customize and support
+  our products.
+- Design and build reports and dashboards.
+- Design, code, deploy and test client-specific customizations.
+- Carry out technical investigations.
+- Provide full life-cycle client support.
+
+What we're looking for
+- T-SQL knowledge is required at a minimum. Our stack is SQL Server
+  (T-SQL, SSAS, SSRS), HTML5, AngularJS and C#. We will consider strong
+  developers familiar with other technologies: strong developers can learn
+  any stack.
+- Core consultancy skills: strong communication and people skills.
+- Prior experience in a similar customer-facing technical role.
+- Experience in legal IT is a big plus, but not required.
+
+
+--- Screening notes ---
+
+Dealbreakers:
+1. Knowledge of T-SQL (required at a minimum).
+2. Prior experience in a similar customer-facing technical role.
+3. Strong development skills (strong developers can learn any stack).
+
+What success looks like in 6-12 months:
+Managing client implementations to successful outcomes: gathering
+requirements, designing and building reports, dashboards and client-specific
+customizations, and supporting clients through the full project lifecycle,
+including post-live support.
+
+What kind of person thrives here:
+A developer with a customer-centric mindset; motivated, a creative problem
+solver, able to translate a client's needs into technical requirements and
+communicate well with clients and consultants.

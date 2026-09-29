@@ -1,0 +1,19 @@
+[Paste the full job posting here: the role, responsibilities, required and
+nice-to-have skills.]
+
+
+--- Screening notes ---
+(Take these from what the posting already says. Keep it short.)
+
+Dealbreakers (maximum 3):
+1. [The true must-have, e.g. "Knowledge of T-SQL"]
+2. [...]
+3. [...]
+
+What success looks like in 6-12 months:
+[What this person will have delivered, e.g. "Runs client implementations
+end to end: gathers requirements, builds the reports, supports go-live."]
+
+What kind of person thrives here (optional):
+[e.g. "A precise executor in a regulated process" or "Someone who invents
+where no process exists yet."]
