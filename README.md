@@ -7,7 +7,7 @@ potential, not keyword counts.
 It never rejects anyone. It tells you who deserves your time first, and why,
 with the questions to ask on the first call.
 
-Written about in: [LINK TO LINKEDIN ARTICLE]
+Written about in: [LinkedIn Article](https://www.linkedin.com/pulse/your-ai-screener-reads-cvs-like-keyword-filter-doesnt-mickael-pic-0gghc)
 
 ## What's in here
 
